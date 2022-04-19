@@ -1,0 +1,20 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+
+.carousel-container{
+  width:40%;
+  margin:auto;
+  border: 5px solid black;
+  overflow: hidden;
+
+}
+.carousel-slide{
+  display:flex;
+  width:100%;
+  hight:400px;
+    
+}
