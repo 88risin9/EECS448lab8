@@ -1,0 +1,21 @@
+
+body{
+ font-family: serif;
+ }
+div{
+ font-family: serif;
+ }
+div.main{
+ display: block;
+ text-align: left;
+ font-family: monospace;
+}
+button{
+ font-family: monospace;
+ }
+
+p{
+ borderWidth: 5px;
+ border-style: solid;
+ border-color: red;
+ }
